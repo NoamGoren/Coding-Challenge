@@ -1,4 +1,4 @@
-# Koodoo-Challenge
+# Coding-Challenge
 
 
 ## Project setup
