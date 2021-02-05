@@ -3,7 +3,7 @@
 
 ## Project setup
 ```
-git clone https://github.com/NoamGoren/Koodoo-Challenge.git
+git clone https://github.com/NoamGoren/Coding-Challenge.git
 ```
 
 ```
